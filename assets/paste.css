@@ -1,0 +1,11 @@
+#menu{
+	margin-top: -20px;
+}
+.paste-index{
+	list-style:none;
+}
+.paste-index a{
+	text-decoration:none;
+	color:#424242;
+	padding-left:10px;
+}

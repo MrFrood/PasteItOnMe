@@ -1,0 +1,13 @@
+body {
+  background-color: #D8D8D8;
+  margin:0px;
+  padding:0px;
+}
+
+#menu {
+  float: left;
+  height: 100vh;
+  margin-top: -20px;
+  width: 24vw;
+}
+

@@ -1,0 +1,36 @@
+
+body {
+  background-color: #D8D8D8;
+  margin:0px;
+  padding:0px;
+}
+
+textarea {
+  background: transparent;
+  border: 0px;
+  color: black;
+  padding: 0px;
+  width: calc(100vw - 26vw);
+  height: 100vh;
+  font-family: Tahoma, sans-serif;
+  outline: none;
+  resize: none;
+  font-size: 14px;
+  padding-left: 1px;
+  padding-right: 40px;
+  padding-top:30px;
+  float: right;
+}
+
+#menu {
+  width: 24vw;
+  height: 100vh;
+  float: left;
+}
+
+.paste-index{
+	list-style:none;
+}
+.paste-index a{
+	text-decoration:none;
+}
