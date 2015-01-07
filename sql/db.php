@@ -1,5 +1,7 @@
 <?php
-
+  /**
+ * @author Jon McLean
+*/
   $host = "localhost";
   $username = "root";
   $password = "";
