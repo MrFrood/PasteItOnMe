@@ -1,4 +1,9 @@
 <?php
+
+/**
+ * @author Jon McLean
+*/
+
   echo "
   <div class='pure-menu pure-menu-open' id='menu'>
     <a href='pasteiton.me' class='pure-menu-heading' style='color: #7489E8;' >PasteItOn.me</a>
